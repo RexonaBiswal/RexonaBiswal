@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RexonaBiswal
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python,Shell Scripting,JS
-- 📫 How to reach me-biswalrexona@gmail.com
+- 📫 How to reach me : biswalrexona@gmail.com
 - ⚡ What I know: HTML,CSS,JAVA(beginner),C,SQL
 
 <!---
